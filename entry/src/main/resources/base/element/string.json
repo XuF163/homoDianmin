@@ -1,0 +1,15 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "点名客户端 (鸿蒙)" },
+    { "name": "app_name", "value": "点名客户端HM" },
+    { "name": "mainability_description", "value": "应用主程序" },
+    { "name": "roll_call_tab", "value": "点名" },
+    { "name": "sign_in_tab", "value": "签到" },
+    { "name": "status_loading_classes", "value": "正在加载班级列表..." },
+    { "name": "status_roll_calling", "value": "正在点名..." },
+    { "name": "start_roll_call_button", "value": "点名结果将显示在这里" },
+    { "name": "reason_get_wifi_info", "value": "用于获取当前Wi-Fi网络名称以辅助NFC签到。" },
+    { "name": "reason_location", "value": "获取Wi-Fi信息可能需要定位权限以提高准确性。" },
+    { "name": "sign_in_initial_status", "value": "请点击按钮准备NFC签到" }
+  ]
+}
